@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Aula anatomia de classe 2/Aula anatomia de classe 2.iml" filepath="$PROJECT_DIR$/Aula anatomia de classe 2/Aula anatomia de classe 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula anatomia de classe 1/Aula anatomia de classe 1.iml" filepath="$PROJECT_DIR$/Aula anatomia de classe 1/Aula anatomia de classe 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula anatomia de classes 2/Aula anatomia de classes 2.iml" filepath="$PROJECT_DIR$/Aula anatomia de classes 2/Aula anatomia de classes 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp Dio java.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp Dio java.iml" />
     </modules>
   </component>

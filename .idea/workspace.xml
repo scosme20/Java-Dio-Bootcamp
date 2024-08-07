@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1469963d-0fd3-420c-8f08-d96195764285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula anatomia de classe 2/Aula anatomia de classe 2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula anatomia de classes 2/Aula anatomia de classes 2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anatomia de classes 1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anatomia de classes 2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anatomia de classes 2/Anatomia de classes 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Anatomia de classes 2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula anatomia de classe 2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Aula anatomia de classe 1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula anatomia de classe 2/Aula anatomia de classe 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aula anatomia de classe 1/Aula anatomia de classe 1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula anatomia de classe 2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aula anatomia de classe 1/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2kJ6IIbp423j7Krk84aUjzT3ODD" />
   <component name="ProjectViewState">
@@ -36,7 +36,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "onboarding.tips.debug.path": "C:/Programação/Bootcamp Dio java/Aula anatomia de classe 2/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Programação/Bootcamp Dio java/Aula anatomia de classes 2/src/Main.java",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -56,13 +56,24 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Aula anatomia de classe 2/src/Main.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/Aula anatomia de classes 2/src/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
